@@ -1,0 +1,33 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  padding-top: 80px;
+}
+
+.main {
+  height: 100vh;
+  overflow: auto;
+  padding-top: 50px;
+}
+
+.mybutton {
+  margin: 10px;
+  background-color: lightblue;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.active {
+  background-color: palegreen;
+}
+
+.mycontainer {
+  padding: 10px;
+}
