@@ -28,7 +28,7 @@
 ## How to Run Locally
 Run the below command to clone the repo locally
 ```
-git clone https://github.com/karan0805/Toofan-Xpress.git
+git clone https://github.com/kkhitesh/Toofan-Xpress.git
 ``` 
 
 ---
